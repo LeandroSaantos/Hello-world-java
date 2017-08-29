@@ -1,0 +1,27 @@
+body {
+    background-image: url("../Image/arena-unifacisa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Texto{
+    color:blue;
+    text-shadow: 2px 2px 4px white;
+    text-decoration-style:initial;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.div{
+    position: absolute;
+    width: auto;
+    left: 10%;
+    top: 3%;
+
+}
+
+.div2{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    
+}
